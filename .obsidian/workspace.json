@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ПТС.md",
+                "file": "РТС.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ПТС"
+              "title": "РТС"
             }
           }
         ],
@@ -198,11 +198,18 @@
   },
   "active": "cedd997662b17216",
   "lastOpenFiles": [
-    "СИСПИ.md",
-    "ПТС.md",
+    "Cache/Pasted image 20260609141941.png",
     "РТС.md",
-    "Cache/Pasted image 20260524212220.png",
-    "Cache/Pasted image 20260526001620.png",
-    "Cache/Pasted image 20260520194819.png"
+    "Cache/Pasted image 20260609142634.png",
+    "ПТС.md",
+    "Cache/Pasted image 20260609140930.png",
+    "Cache/Pasted image 20260609140656.png",
+    "Cache/Pasted image 20260609135638.png",
+    "Cache/Pasted image 20260609135506.png",
+    "Cache/Pasted image 20260609135142.png",
+    "Cache/Pasted image 20260609135135.png",
+    "Cache/Pasted image 20260609134004.png",
+    "Cache/Pasted image 20260609133946.png",
+    "СИСПИ.md"
   ]
 }
